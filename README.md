@@ -30,7 +30,7 @@ Myself Abhishek Gupta .I am a Full Stack Developer <img src="https://media.giphy
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/abhishek-gupta-62b61916b)https://www.linkedin.com/in/abhishek-gupta-62b61916b)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-62b61916b)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
