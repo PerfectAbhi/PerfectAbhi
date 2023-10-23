@@ -48,7 +48,6 @@ Myself Abhishek Gupta .I am a Full Stack Developer <img src="https://media.giphy
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=PerfectAbhi
-[![GitHub Streak[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectAbhi&card_width=523)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectAbhi&card_width=523)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectAbhi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectAbhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
